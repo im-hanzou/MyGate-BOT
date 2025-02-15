@@ -1,8 +1,8 @@
 # MyGate Network BOT
 MyGate Network BOT
 
-- Register Here : [MyGate Network](https://app.mygate.network/login?code=9OqMCE)
-- Use Code : 9OqMCE
+- Register Here : [MyGate Network](https://app.mygate.network/login?code=SJwBwC)
+- Use Code : SJwBwC
 
 ## Features
 
