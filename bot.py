@@ -184,7 +184,7 @@ class MyGate:
                 print(f"{Fore.RED + Style.BRIGHT}Invalid input. Enter a number (1, 2 or 3).{Style.RESET_ALL}")
 
     async def user_confirm(self, token: str, username: str, proxy=None, retries=5):
-        url = "https://api.mygate.network/api/front/referrals/referral/9OqMCE"
+        url = "https://api.mygate.network/api/front/referrals/referral/SJwBwC"
         headers = {
             **self.headers,
             "Authorization": f"Bearer {token}",
